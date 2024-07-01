@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Binoy Patra</h1>
 <h3 align="center">A Data Analyst from India</h3>
+<h3 align="center">Passionate about turning data into actionable insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binoy-patra&label=Profile%20views&color=0e75b6&style=flat" alt="binoy-patra" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer**
+- 🔭 I’m currently working as a **Software Engineer at Data-Core**
 
 - 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **Data, Data Analysis, Power BI**
+- 💬 Ask me about **Python, SQL, Data Cleaning, Data Preprocessing, Data Visualization, Data Analysis and Power BI**
 
 - 📫 How to reach me **binoypatra20@gmail.com**
 
