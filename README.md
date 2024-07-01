@@ -1,35 +1,3 @@
-## Hi there 👋
-
-<!--
-**binoy-patra/binoy-patra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20462
-Fork on GitHub
-6272
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Binoy Patra</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
