@@ -17,7 +17,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/binoy-patra/binoy-patra/assets/116071912/b6ec6383-9e61-4380-bda0-fdb6274dc640">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binoy-patra&label=Profile%20views&color=0e75b6&style=flat" alt="binoy-patra" /> </p>
+
 
 - 🔭 I’m currently working as a **Software Engineer at Data-Core**
 
