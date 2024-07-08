@@ -33,16 +33,12 @@
   <img src="https://freebiehive.com/wp-content/uploads/2022/04/Microsoft-Excel-Icon-PNG.jpg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://plotly.com/favicon.ico" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Logo_statistics.svg/1200px-Logo_statistics.svg.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/plasticine/100/000000/statistics.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
   <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp;
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eicon_Science_Article.png/600px-Eicon_Science_Article.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/plasticine/100/000000/statistics.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
-
 </div>
 
 
