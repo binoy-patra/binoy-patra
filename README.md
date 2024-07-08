@@ -24,7 +24,7 @@
     <h2>👨‍💻 About Me:</h2>
     <p>
       <ul style="list-style-type: none; padding: 0;">
-        <li><span style="font-size: larger;"🧑‍💼</span> I am currently working as a <strong>Software Engineer at Data-Core, Kolkata</strong>.<br/></li>
+        <li><span style="font-size: larger;">🧑‍💼</span> I am currently working as a <strong>Software Engineer at Data-Core, Kolkata</strong>.<br/></li>
         <li><span style="font-size: larger;">📚</span> I’m currently learning <strong>Azure</strong>, exploring the fascinating world of data analysis, data visualization, and technology.<br/></li>
         <li><span style="font-size: larger;">💬</span> Ask me about <strong>Python, SQL, Data Cleaning, Data Preprocessing, Data Visualization, Data Analysis, and Power BI</strong>.<br/></li>
         <li><span style="font-size: larger;">🌐</span> I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.<br/></li>
