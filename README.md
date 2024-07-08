@@ -49,6 +49,24 @@
       <li>:open_file_folder: You can check out some of my work and projects on my <a href="https://github.com/binoy-patra">GitHub profile</a>.</li>
     </ul>
   </div>
+  
+  <div align="left">
+  <h2>:hammer_and_wrench: Languages and Tools:</h2>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+    <img src="https://freebiehive.com/wp-content/uploads/2022/04/Microsoft-Excel-Icon-PNG.jpg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+    <img src="https://plotly.com/favicon.ico" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+    <img src="https://img.icons8.com/plasticine/100/000000/statistics.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
+    <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp;
+  </div>
 
   <div align="left">
     <h2>📊 Github Statistics:</h2>
