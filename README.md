@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/binoy-patra-b9277b1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/binoy-patra">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=binoy-patra&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Hi 👋, I'm Binoy Patra</h1>
 <h3 align="center">A Data Analyst from India</h3>
 <h3 align="center">Passionate about turning data into actionable insights.</h3>
