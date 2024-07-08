@@ -39,6 +39,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Logo_statistics.svg/1200px-Logo_statistics.svg.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
   <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp;
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eicon_Science_Article.png/600px-Eicon_Science_Article.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
+
 </div>
 
 
