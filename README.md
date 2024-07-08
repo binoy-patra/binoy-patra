@@ -12,7 +12,7 @@
     </a>
   </div>
   
-  <div id="profile-views" align="center">
+  <div id="profile-views">
     <img src="https://komarev.com/ghpvc/?username=binoy-patra&style=flat-square&color=blue" alt="Profile Views"/>
   </div>
 
@@ -20,7 +20,7 @@
   <h3 align="center">A Data Analyst from India</h3>
   <h3 align="center">Passionate about turning data into actionable insights.</h3>
   
-  <div align="center">
+  <div>
     <h2>👨‍💻 About Me:</h2>
     <p>
       I am currently working as a <strong>Software Engineer at Data-Core, Kolkata</strong>.<br/>
@@ -32,7 +32,7 @@
     </p>
   </div>
 
-  <div align="center">
+  <div>
     <h2>🛠️ Skills:</h2>
     <ul>
       <li><img src="https://img.icons8.com/color/24/000000/code.png"/> Programming Language: C, Python, SQL</li>
@@ -43,14 +43,14 @@
     </ul>
   </div>
 
-  <div align="center">
+  <div>
     <h2>📁 Projects:</h2>
     <ul>
       <li>:open_file_folder: You can check out some of my work and projects on my <a href="https://github.com/binoy-patra">GitHub profile</a>.</li>
     </ul>
   </div>
 
-  <div align="center">
+  <div>
     <h2>📊 Github Statistics:</h2>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binoy-patra&" alt="binoy-patra" /></p>
   </div>
