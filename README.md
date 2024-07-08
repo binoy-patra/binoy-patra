@@ -41,6 +41,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp;
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eicon_Science_Article.png/600px-Eicon_Science_Article.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/plasticine/100/000000/statistics.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
 
 </div>
 
