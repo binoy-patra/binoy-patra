@@ -23,7 +23,7 @@
   <div align="left">
     <h2>👨‍💻 About Me:</h2>
     <p>
-      <img src="https://img.icons8.com/color/22/000000/briefcase.png"/> I am currently working as a <strong>Software Engineer at Data-Core, Kolkata</strong>.<br/>
+      <li><img src="https://img.icons8.com/color/22/000000/briefcase.png"/> I am currently working as a <strong>Software Engineer at Data-Core, Kolkata</strong>.<br/><li>
       <img src="https://img.icons8.com/color/22/000000/book.png"/> I’m currently learning <strong>Azure</strong>, exploring the fascinating world of data analysis, data visualization, and technology.<br/>
       <img src="https://img.icons8.com/color/22/000000/speech-bubble.png"/> Ask me about <strong>Python, SQL, Data Cleaning, Data Preprocessing, Data Visualization, Data Analysis, and Power BI</strong><br/>
       <img src="https://img.icons8.com/color/22/000000/globe.png"/> I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.<br/>
