@@ -20,28 +20,28 @@
   <h3 align="center">A Data Analyst from India</h3>
   <h3 align="center">Passionate about turning data into actionable insights.</h3>
   
-  <div align="left">
+ <div align="left">
     <h2>👨‍💻 About Me:</h2>
     <p>
-         <ul>
-      <li><img src="https://img.icons8.com/color/22/000000/briefcase.png"/> I am currently working as a <strong>Software Engineer at Data-Core, Kolkata</strong>.<br/>
-      <li><img src="https://img.icons8.com/color/22/000000/book.png"/> I’m currently learning <strong>Azure</strong>, exploring the fascinating world of data analysis, data visualization, and technology.<br/>
-      <li><img src="https://img.icons8.com/color/22/000000/speech-bubble.png"/> Ask me about <strong>Python, SQL, Data Cleaning, Data Preprocessing, Data Visualization, Data Analysis, and Power BI</strong><br/>
-      <li><img src="https://img.icons8.com/color/22/000000/globe.png"/> I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.<br/>
-      <li><img src="https://img.icons8.com/color/22/000000/email.png"/> Feel free to reach out to me via email: <a href="mailto:binoypatra20@gmail.com">binoypatra20@gmail.com</a><br/>
-      <li><img src="https://img.icons8.com/color/22/000000/linkedin.png"/> You can follow me on LinkedIn: <a href="https://www.linkedin.com/in/binoy-patra-b9277b1b2">LinkedIn</a>
-       <ul>
-         </p>
+      <ul style="list-style-type: none; padding: 0;">
+        <li><span style="font-size: larger;"🧑‍💼</span> I am currently working as a <strong>Software Engineer at Data-Core, Kolkata</strong>.<br/></li>
+        <li><span style="font-size: larger;">📚</span> I’m currently learning <strong>Azure</strong>, exploring the fascinating world of data analysis, data visualization, and technology.<br/></li>
+        <li><span style="font-size: larger;">💬</span> Ask me about <strong>Python, SQL, Data Cleaning, Data Preprocessing, Data Visualization, Data Analysis, and Power BI</strong>.<br/></li>
+        <li><span style="font-size: larger;">🌐</span> I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.<br/></li>
+        <li><span style="font-size: larger;">✉️</span> Feel free to reach out to me via email: <a href="mailto:binoypatra20@gmail.com">binoypatra20@gmail.com</a><br/></li>
+        <li><span style="font-size: larger;">🔗</span> You can follow me on LinkedIn: <a href="https://www.linkedin.com/in/binoy-patra-b9277b1b2">LinkedIn</a><br/></li>
+      </ul>
+    </p>
   </div>
 
   <div align="left">
     <h2>🛠️ Skills:</h2>
-    <ul>
-      <li><img src="https://img.icons8.com/color/24/000000/code.png"/> Programming Language: C, Python, SQL</li>
-      <li><img src="https://img.icons8.com/color/24/000000/graph.png"/> Data Visualization: Power BI, Matplotlib, Seaborn, Plotly</li>
-      <li><img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png"/> Artificial Intelligence: Statistics, NumPy, Pandas, Scikit Learn, Machine Learning</li>
-      <li><img src="https://img.icons8.com/color/24/000000/settings.png"/> Others: Excel, Data Cleaning & Pre-processing, Data Visualization, Feature Engineering</li>
-      <li><img src="https://img.icons8.com/color/24/000000/git.png"/> Version Control: Git and GitHub</li>
+    <ul style="list-style-type: none; padding: 0;">
+      <li><span style="font-size: larger;">💻</span> Programming Language: C, Python, SQL</li>
+      <li><span style="font-size: larger;">📊</span> Data Visualization: Power BI, Matplotlib, Seaborn, Plotly</li>
+      <li><span style="font-size: larger;">🤖</span> Artificial Intelligence: Statistics, NumPy, Pandas, Scikit Learn, Machine Learning</li>
+      <li><span style="font-size: larger;">⚙️</span> Others: Excel, Data Cleaning & Pre-processing, Data Visualization, Feature Engineering</li>
+      <li><span style="font-size: larger;">🔧</span> Version Control: Git and GitHub</li>
     </ul>
   </div>
 
