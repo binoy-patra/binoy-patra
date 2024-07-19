@@ -28,6 +28,7 @@
         <li><span style="font-size: larger;">📚</span> I’m currently learning <strong>Azure</strong>, exploring the fascinating world of data analysis, data visualization, and technology.<br/></li>
         <li><span style="font-size: larger;">💬</span> Ask me about <strong>Python, SQL, Data Cleaning, Data Preprocessing, Data Visualization, Data Analysis, and Power BI</strong>.<br/></li>
         <li><span style="font-size: larger;">🌐</span> I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.<br/></li>
+        <li><span style="font-size: larger;">🔗</span> You can check my Project Portfolio: <a href="https://mavenanalytics.io/profile/Binoy-Patra/202945028">Project Portfolio</a><br/></li>
         <li><span style="font-size: larger;">✉️</span> Feel free to reach out to me via email: <a href="mailto:binoypatra20@gmail.com">binoypatra20@gmail.com</a><br/></li>
         <li><span style="font-size: larger;">🔗</span> You can follow me on LinkedIn: <a href="https://www.linkedin.com/in/binoy-patra-b9277b1b2">LinkedIn</a><br/></li>
       </ul>
